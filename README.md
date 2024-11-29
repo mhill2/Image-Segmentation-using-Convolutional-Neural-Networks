@@ -23,3 +23,6 @@ The inputs for the process come in the form of images taken from either the Berk
 implementation) or individual images of Glasgow taken from Google images (SegNet method). Both
 implementations were tested separately, and the results could then be analysed which reveal any
 errors present.
+
+![image](https://github.com/user-attachments/assets/4e2fc220-880e-42a6-b4e9-d1928481a5f2)
+
